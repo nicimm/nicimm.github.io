@@ -1,0 +1,187 @@
+<HTML>
+
+<HEAD>
+<TITLE>395: Algorithmic and Economic Aspects of Social Networks, Course Webpage</TITLE>
+</HEAD>
+
+<BODY>
+
+<H1>395: Algorithmic and Economic Aspects of Social Networks</H1>
+
+Contents:
+<A HREF="#description">Description</A> 
+<A HREF="#details">Details</A> 
+<A HREF="#announcements">Announcements</A> 
+<A HREF="#syllabus">Syllabus</A>
+<A HREF="#links">Links</A>
+
+<HR>
+
+<A NAME="description">
+<H2>Description</H2>
+</A>
+
+The goal of this course is to help students develop a theoretical
+understanding of social networks such as the Internet.  We will use
+tools from economics and theoretical computer science to characterize
+the typical structures of social networks and develop theories about
+their formation and evolution.  We will then attempt to explain
+phenomena from the world such as technology diffusion or the spread of
+disease by modeling them as dynamic processes on social networks and
+analyzing the resulting equilibria.  Finally, we will attempt to
+develop policies that can be imposed on networks to help guide these
+processes towards optimal global outcomes.
+
+<A NAME="details">
+<H2>Details</H2>
+</A>
+
+Lectures: Standard time is Thu. 2-5pm in Tech MG28<br>
+<br>
+Professor: Nicole Immorlica<br>
+Email: nickle at eecs dot northwestern dot edu<br>
+Office Hours: by appointment, room Ford 3.327<br>
+<br>
+
+<A NAME="announcements">
+<H2>Announcements</H2>
+</A>
+
+<LI> The Jan. 22nd lecture has been rescheduled for Feb. 3rd from 5-8pm.
+
+<LI> Update: The Jan. 29th lecture will be as scheduled, and given by
+Jason Hartline.  We are still trying to find a time for the Jan. 22nd
+lecture.
+
+<LI> The Jan. 22nd lecture will be on Jan. 20th, and the Jan. 29th
+lecture will be on Feb. 3rd.  Location in Tech MG28 unless announced
+otherwise...
+
+<A NAME="syllabus">
+<H2>Syllabus</H2>
+</A>
+
+Note: Textbook readings from Social and Economic Networks (SEN).</A>.
+<br>
+<br>
+<TABLE border="1" align="center" cellpadding="10">
+
+<TR>
+<TD>Date</TD>
+<TD>Topic</TD>
+<TD>Reading</TD>
+<TD>Assignment</TD>
+</TR>
+
+<TR>
+<TD>08/01/09</TD>
+<TD>Graph theory, network structure - <A HREF="lec1.pptx">ppt</A>, <A HREF="lec1.pdf">pdf</A></TD>
+<TD>SEN Part I, <A HREF="granstrengthweakties.pdf">Strength of Weak
+Ties</A>, <A HREF="broder.pdf">Structure of the Web</A></TD>
+<TD>Reaction paper due 15/01/09</TD>
+</TR>
+
+<TR>
+<TD>15/01/09</TD>
+<TD>Random graphs, probabilistic network formation - <A HREF="lec2.pptx">ppt</A>, <A HREF="lec2.pdf">pdf</A></TD>
+<TD>SEN Chapters 4 and 5, Mitzenmacher's <A
+HREF="mitzenmacher_survey.pdf">survey</A>, <A HREF="watts-strogatz.pdf">Watts-Strogatz</A></TD>
+<TD>Reaction paper due 03/02/09</TD>
+</TR>
+
+<TR>
+<TD>29/01/09</TD>
+<TD>Guest Lecture: Game theory intro., by Jason Hartline</TD>
+<TD>SEN Chapter 9.10, <A HREF="marketingOverSocNet.pdf">Optimal
+Marketing Strategies over Social Networks</A></TD>
+<TD>Reaction paper due on 03/02/09</TD>
+</TR>
+
+<TR>
+<TD>03/02/09</TD>
+<TD>Strategic network formation - <A HREF="lec4.pptx">ppt</A>, <A HREF="lec4.pdf">pdf</A></TD>
+<TD>SEN Chapter 6 (11, optional), <A
+HREF="KleinbergSTW.pdf">Strategic Network Formation with Structural Holes</A></TD>
+<TD>Reaction paper due on 12/2/09</TD>
+</TR>
+
+<TR>
+<TD>05/02/09</TD>
+<TD>Diffusion, Navigation - <A HREF="lec5.pptx">ppt</A>, <A HREF="lec5.pdf">pdf</A></TD>
+<TD>SEN Chapter 7, <A HREF="chord.pdf">Chord</A></TD>
+<TD>Reaction paper, project proposals due on 12/2/09</TD>
+</TR>
+
+<TR>
+<TD>12/02/09</TD>
+<TD>Learning and Networks - <A HREF="lec6.pptx">ppt</A>, <A HREF="lec6.pdf">pdf</A></TD>
+<TD>SEN Chapter 8, <A HREF="pagerank.pdf">PageRank</A>, <A
+HREF="kleinberg-hits.pdf">Hubs and Authorities</A><br>(To see why
+pagerank is the "right" answer, read <A
+HREF="pagerankaxioms.pdf">PageRank Axioms</A>)</TD>
+<TD>Reaction paper due on 19/02/09</TD>
+</TR>
+
+<TR>
+<TD>19/02/09</TD>
+<TD>Graphical Games - <A HREF="lec7.pptx">ppt</A>, <A HREF="lec7.pdf">pdf</A></TD>
+<TD>SEN Chapter 9, <A
+HREF="bramoulleKranton.pdf">Bramoulle-Kranton</A>, <A
+HREF="keyplayer.pdf">Ballester et al.</A></TD>
+<TD>Reaction paper due on 26/02/09</TD>
+</TR>
+
+<TR>
+<TD>26/02/09</TD>
+<TD>Networked Markets - <A HREF="lec8.pptx">ppt</A>, <A HREF="lec8.pdf">pdf</A></TD>
+<TD><A HREF="bargainingSocNet.pdf">Bargaining Solutions in a Social
+Network</A>, <A HREF="networkedTradeExperiments.pdf">Behavioral Experiments in Networked Trade</A></TD>
+<TD>Reaction paper due on 05/03/09</TD>
+</TR>
+
+<TR>
+<TD>05/03/09</TD>
+<TD>Cooperative Game Theory</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+<TR>
+<TD>12/03/09</TD>
+<TD>Project presentations</TD>
+<TD>&nbsp;</TD>
+<TD>&nbsp;</TD>
+</TR>
+
+</TABLE>
+
+</BODY>
+</HTML>
+
+<A NAME="links">
+<H2>Links</H2>
+</A>
+
+<UL>
+
+<LI> Lada Adamic's course <A
+HREF="http://www-personal.umich.edu/~ladamic/courses/si508si708cs608/index.html">Networks</A>
+
+<LI> David Kempe's course <A
+HREF="http://www-rcf.usc.edu/~dkempe/CS59908/index.html">Structure and
+Dynamics of Networked Information</A>
+
+<LI> Jon Kleinberg's course <A
+HREF="http://www.cs.cornell.edu/Courses/cs6850/2008fa/">The Structure
+of Information Networks</A>
+
+<LI> Markus Mobius's course <A HREF="http://www.isites.harvard.edu/icb/icb.do?keyword=k40788">Networks and Social Capital</A>
+
+<LI> Amin Saberi's course <A
+HREF="http://www.stanford.edu/class/msande337/">Information
+Networks</A>
+
+
+
+
+</UL>
