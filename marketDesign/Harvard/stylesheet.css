@@ -1,0 +1,32 @@
+* {
+	margin: 0px;
+}
+ul {
+	list-style-type: square;
+}
+ol.c {
+	list-style-type: upper-roman;
+}
+ol.d {
+	list-style-type: lower-alpha;
+}
+
+body {
+	background-position: left bottom; background-image: url("IMG_9936s_small.jpg"); background-attachment: fixed; background-repeat: no-repeat; background-size: auto;
+}
+
+h1 {
+ 	padding: 8px 0px 4px 14px; border: 8px solid rgb(0, 0, 0); left: 175px; top: 0px; width: 516px; height: 36px; font-family: verdana; font-size: 25px; position: relative; background-color: rgb(255, 255, 255);
+}
+
+h2 {
+	border-width: 8px; border-color: rgb(255, 255, 0); padding: 20px 40px; left: 175px; width: 450px; text-align: justify; font-family: "helvetica"; font-size: 15px; font-weight: normal; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; position: relative; -ms-text-justify: inter-word; background-color: rgb(255, 255, 255);
+}
+
+h3 {
+	border-width: 8px; border-color: rgb(0, 0, 255); padding: 20px 40px; left: 175px; width: 450px; text-align: justify; font-family: "helvetica"; font-size: 15px; font-weight: normal; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; position: relative; -ms-text-justify: inter-word; background-color: rgb(255, 255, 255);
+}
+
+h4 {
+	border-width: 8px; border-color: rgb(255, 0, 0); padding: 20px 40px; left: 175px; width: 450px; text-align: justify; font-family: "helvetica"; font-size: 15px; font-weight: normal; border-top-style: solid; border-right-style: solid; border-bottom-style: solid; border-left-style: solid; position: relative; -ms-text-justify: inter-word; background-color: rgb(255, 255, 255);
+}

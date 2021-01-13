@@ -1,0 +1,55 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">	 
+<META name="robots" content="index,follow">	 
+<STYLE>
+A:hover
+	{
+	font-weight: bold;
+	}
+#header	{
+	color: rgb(255,255,255);
+	font-family:verdana;
+	font-size:20px;
+	text-decoration:none;	
+	width:100%;
+	position:relative;
+	text-align:center;
+	display:block;
+	padding-top: 50px;
+	}
+#circle {
+	width: 33px;
+	height: 33px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	floating: left;
+}
+#square {
+	width: 30px;
+	height: 30px;
+	background: blue;
+	floating: left;
+}
+#triangle {
+	width: 0;
+	height: 0;
+	border-left: 15px solid transparent;
+	border-right: 15px solid transparent;
+	border-top: 30px solid yellow;
+}
+	</STYLE>
+		 
+</HEAD> 
+<BODY topmargin="0" leftmargin="0" bgcolor=black marginheight="0" 
+marginwidth="0">
+<div id="header">
+CS 234
+</div>
+<div id="circle">
+</div>
+<div id="square">
+</div>
+</BODY>
